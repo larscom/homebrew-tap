@@ -27,5 +27,5 @@ brew install larscom/tap/<formula>
 
 Upgrade
 ```bash
-brew update && brewupgrade
+brew update && brew upgrade
 ```
