@@ -1,7 +1,7 @@
 # 🍺 Homebrew Tap
 
 A Homebrew tap containing formulas maintained by **larscom**.  
-Use this tap to easily install custom CLI tools on macOS.
+Use this tap to easily install custom CLI tools on macOS / linux.
 
 ---
 
