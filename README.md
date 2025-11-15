@@ -10,6 +10,7 @@ Use this tap to easily install custom CLI tools on macOS / linux.
 | Formula | Description |
 |--------|-------------|
 | **ranked_searcher** | Search inside text files using a tf-idf–based ranking system. Shows the most relevant results first. |
+| **rusty_relay_client** | The client which can connect to a rusty-relay server. |
 
 ---
 
