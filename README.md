@@ -24,3 +24,8 @@ Install formula
 ```bash
 brew install larscom/tap/<formula>
 ```
+
+Upgrade
+```bash
+brew update && brewupgrade
+```
