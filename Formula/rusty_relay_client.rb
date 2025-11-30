@@ -1,24 +1,24 @@
 class RustyRelayClient < Formula
   desc "The client which can connect to a rusty-relay server"
   homepage "https://github.com/larscom/rusty-relay"
-  version "0.5.1"
+  version "0.6.0"
 
   on_macos do
     on_intel do
-      url "https://github.com/larscom/rusty-relay/releases/download/0.5.1/rusty-relay-client-0.5.1-macos-x86_64.tar.gz"
-      sha256 "d31e2cb5cee41a0f80a501b3ac19d1b2018ed2374136acdc981608374f597c2f"
+      url "https://github.com/larscom/rusty-relay/releases/download/0.6.0/rusty-relay-client-0.6.0-macos-x86_64.tar.gz"
+      sha256 "e5ff8177db37b4dbc922788c5b8b0366a72ae8719306d9fa0fef52b41f2fb466"
     end
 
     on_arm do
-      url "https://github.com/larscom/rusty-relay/releases/download/0.5.1/rusty-relay-client-0.5.1-macos-arm64.tar.gz"
-      sha256 "963772fd1a2367808b786700448137b2eabb59c4e9e3e9f7a432af1ca05839b7"
+      url "https://github.com/larscom/rusty-relay/releases/download/0.6.0/rusty-relay-client-0.6.0-macos-arm64.tar.gz"
+      sha256 "3e4fd025d3a561ec057f05501cc94b66006ef7b3e7ddb2ba954b57004fbed084"
     end
   end
 
   on_linux do
     on_intel do
-      url "https://github.com/larscom/rusty-relay/releases/download/0.5.1/rusty-relay-client-0.5.1-linux-x86_64.tar.gz"
-      sha256 "65c843f60e1403ab6c289303c27b63c88259f54be5b6148b1e0c85c749f35d80"
+      url "https://github.com/larscom/rusty-relay/releases/download/0.6.0/rusty-relay-client-0.6.0-linux-x86_64.tar.gz"
+      sha256 "af3070b409628e2dff8fcaf6e2e2f0cf1839c21addee4062498c3b7ebaa28ad1"
     end
   end
 
